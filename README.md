@@ -11,6 +11,7 @@ Main features are:
 1. Aimbot (can aim at different parts of the player skeleton, within an adjustable fov and with adjustable aimspeed etc to look more realistic/human like)
 2. ESP (draw box/circle around players through walls.
 3. Recoil/Spray pattern compensation.
+4. Trigger bot (fire as player passes through crosshair)
 
 The code is messy but works, not really gonna be working on this as I acheived what I wanted to learn.
 
