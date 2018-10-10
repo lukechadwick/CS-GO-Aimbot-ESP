@@ -1,0 +1,13 @@
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\obj\Debug\MainWindow.baml
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\obj\Debug\MainWindow.g.cs
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\obj\Debug\App.g.cs
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\obj\Debug\Notepad++_MarkupCompile.cache
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\obj\Debug\Notepad++.g.resources
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\obj\Debug\Notepad__.Properties.Resources.resources
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\obj\Debug\Notepad++.csproj.GenerateResource.Cache
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\bin\Debug\Notepad++.exe.config
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\bin\Debug\Notepad++.exe
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\bin\Debug\Notepad++.pdb
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\obj\Debug\Notepad++.exe
+c:\users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\obj\Debug\Notepad++.pdb
+C:\Users\lluke\documents\visual studio 2017\Projects\Notepad++\Notepad++\obj\Debug\Notepad++.csprojResolveAssemblyReference.cache
