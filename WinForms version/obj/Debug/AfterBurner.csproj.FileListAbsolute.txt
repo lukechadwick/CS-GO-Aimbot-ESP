@@ -1,0 +1,5 @@
+C:\Users\Luke\Documents\Visual Studio 2017\Projects\CSGO Aimbot\WinForms version\obj\Debug\AfterBurner.csprojAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2017\Projects\CSGO Aimbot\WinForms version\obj\Debug\AfterBurner.Form1.resources
+C:\Users\Luke\Documents\Visual Studio 2017\Projects\CSGO Aimbot\WinForms version\obj\Debug\AfterBurner.Properties.Resources.resources
+C:\Users\Luke\Documents\Visual Studio 2017\Projects\CSGO Aimbot\WinForms version\obj\Debug\AfterBurner.csproj.GenerateResource.cache
+C:\Users\Luke\Documents\Visual Studio 2017\Projects\CSGO Aimbot\WinForms version\obj\Debug\AfterBurner.csproj.CoreCompileInputs.cache

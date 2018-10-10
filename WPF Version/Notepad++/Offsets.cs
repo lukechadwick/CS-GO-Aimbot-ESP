@@ -2,13 +2,13 @@
 {
     public class Offsets
     {
-        public static int LocalPlayer = 0xAAEC3C; //LocalPlayer
-        public static int EntityList = 0x4A8C08C;  //Entity List
-        public static int ViewMatrix = 0x4A7DAE4; //ViewMatrix
+        public static int LocalPlayer = 0xC5F89C; //LocalPlayer
+        public static int EntityList = 0x4C3C4F4;  //Entity List
+        public static int ViewMatrix = 0x4C2DF24; //ViewMatrix
 
-        public static int CrossID = 0xB294;
+        public static int CrossID = 0xB2C8;
         public static int Position = 0x134;
-        public static int AimPunch = 0x3010;
+        public static int AimPunch = 0x301C;
 
         public static int Dist = 0x10; //Entitiy distaance
         public static int Dorm = 0xE9; //m_bdormant

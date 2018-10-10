@@ -227,7 +227,7 @@ namespace Notepad__
 
                     #region MemoryWork
                     if (client == 0)
-                        client = Memory.GetBaseAddress(Memory.dec("Y3Nnbw=="), Memory.dec("Y2xpZW50LmRsbA=="));
+                        client = Memory.GetBaseAddress(Memory.dec("Y3Nnbw=="), "client_panorama.dll");
 
                     Matrix = Memory.ReadMatrix(client + Offsets.ViewMatrix);
 
