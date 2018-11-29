@@ -1,7 +1,7 @@
 # CS-GO-Aimbot-ESP
 Research project into how hackers cheat in online games
 
-As a CS:GO player my friends and I are constantly frustrated by the amount of hackers in the game, but as a coder I'm curious as to how they acheieve this programatically, so I made this as a reasearch project into how aimbots/esp hacks work.
+As a CS:GO player my friends and I are constantly frustrated by the amount of hackers in the game, but as a coder I'm curious as to how they acheieve this programatically, so built my own as a reasearch project into how aimbots/esp hacks work.
 
 There are two builds:
 1. A winforms version that uses a directx library for drawing over the game.
