@@ -29,6 +29,16 @@ namespace libSodium
             return dist;
         }
 
+        public static Vector3 GetEntPos(int entityptr, int head)
+        {
+            int Entity = Memory.ReadInteger(vars.client + Offsets.dwEntityList + (entityptr * 0x10), 4);
 
+            Vector3 pos = Memory.ReadVec3(Entity + Offsets.m_vecOrigin);
+
+            if (head == 1)
+                pos.Z = pos.Z + 72f;
+
+            return pos;
+        }
     }
 }
