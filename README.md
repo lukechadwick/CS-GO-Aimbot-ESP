@@ -14,7 +14,7 @@ Main features are:
 3. Recoil/Spray pattern compensation.
 4. Trigger bot (fire as player passes through crosshair)
 
-The code is messy but works, not really gonna be working on this as I acheived what I wanted to learn.
+The code in the first two projects is messy but works, the libsodium rewrite is much more readable so I would only recommend looking at the first two projects as a reference in how my coding style has changed over time.
 
 Not for use online, you will get banned and rightly so.
 Many bots were harmed in the making of this app.
