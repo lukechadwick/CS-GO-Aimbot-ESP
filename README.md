@@ -6,6 +6,7 @@ As a CS:GO player my friends and I are constantly frustrated by the amount of ha
 There are two builds:
 1. A winforms version that uses a directx library for drawing over the game.
 2. A WPF version that uses built-in drawing functions to draw over the game.
+3. libSodium - A from scratch rewrite using the best parts of the two above projects and better code practices.
 
 Main features are:
 1. Aimbot (can aim at different parts of the player skeleton, within an adjustable fov and with adjustable aimspeed etc to look more realistic/human like)
